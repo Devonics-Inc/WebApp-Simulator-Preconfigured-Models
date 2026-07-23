@@ -14,7 +14,7 @@ Choose the tar file based on your robot version:
 - **FR3 Model** ⇒ `fr3_v01_001.tar.gz`
 - **FR20 Model** ⇒ `fr20_v01_001.tar.gz`
 - **FR30 Model** ⇒ `fr30_v01_001.tar.gz`
-- [Download from Drive](https://workdrive.zohoexternal.com/external/5a400bdc4657ea98e060730f390b8316f43814508f66c64e8d2b94e1de6332f4)
+- [Download from Drive](https://workdrive.zohoexternal.com/folder/vik635bcac639fc9847f5becf87dd3c03eb56)
 
 
 
